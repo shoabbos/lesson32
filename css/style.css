@@ -1,4 +1,4 @@
-.header{background: linear-gradient(180deg, #4dcac4 47.4%, rgba(237, 164, 24, 0) 100%);
+.header{background: linear-gradient(180deg, orange 47.4%, rgba(237, 164, 24, 0) 100%);
     height: 491px;
 }
 
@@ -11,7 +11,7 @@ width: 100%;}
 
 .right-slider{
 
-    background-color: #4dca4d;
+    background-color: #005800;
     height: 300px;
     width: 100%;
     
